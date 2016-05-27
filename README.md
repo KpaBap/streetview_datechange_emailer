@@ -1,6 +1,6 @@
 # streetview_datechange_emailer
 
-Author: Iavor Todorov (kpabap@gmail.com)
+-  Author: Iavor Todorov (kpabap@gmail.com)
 Requires: Python 3.x, Selenium, and Chrome WebDriver
 Install Selenium with - pip install selenium
 Install: https://sites.google.com/a/chromium.org/chromedriver/ to /usr/local/bin or however your POS OS does it
